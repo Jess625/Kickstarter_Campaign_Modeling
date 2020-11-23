@@ -6,7 +6,7 @@ https://www.kaggle.com/kemical/kickstarter-projects?select=ks-projects-201801.cs
 ## Brief Overview:
 I am using a set of 370K+ Kickstarter campaign records to find associations between
 attributes and campaigns outcomes (did the campaign succeed or fail) and build a classification
-model which will predict outcomes of new records.> 
+model which will predict outcomes of new records. 
 
 ** See Jupyter Notebook file for porject proogress thus far
 

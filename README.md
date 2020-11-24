@@ -1,3 +1,5 @@
+** Notice: Github is not rendering my Jupyter Notebook file. In the meantime, please see the rendedred Notebook here: ** https://nbviewer.jupyter.org/github/Jess625/Kickstarter_Campaign_Modeling/blob/main/Jupyter_Notebook.ipynb
+
 # Kickstarter_Campaign_Modeling
 
 This is a project that I am currently working on using a Kickstarter campaign dataset from Kaggle:

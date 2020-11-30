@@ -1,4 +1,4 @@
-** Notice: Github is not rendering my Jupyter Notebook file. In the meantime, please see the rendedred Notebook here:  https://nbviewer.jupyter.org/github/Jess625/Kickstarter_Campaign_Modeling/blob/main/Jupyter_Notebook.ipynb
+** Notice: Github does not render my Jupyter Notebook file in its entirety. For a more pleasant and complete rendered Notebook view, see here:  https://nbviewer.jupyter.org/github/Jess625/Kickstarter_Campaign_Modeling/blob/main/Jupyter_Notebook.ipynb
 
 # Kickstarter_Campaign_Modeling
 

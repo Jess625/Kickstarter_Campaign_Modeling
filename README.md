@@ -10,7 +10,7 @@ I am using a set of 370K+ Kickstarter campaign records to find associations betw
 attributes and campaigns outcomes (success or failure) and build a classification
 model which will predict outcomes of new records. 
 
-** See Jupyter Notebook file for porject proogress thus far
+** See Jupyter Notebook file for porject progress thus far
 
 
 ## Detailed Outline:
